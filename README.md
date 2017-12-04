@@ -1,2 +1,3 @@
-# LogDispatcher
-Dispatch logs of any level to different handlers: database or third party services
+# LogRouter
+
+Route and filter Laravel Monolog entries to different handlers through a simple config.
